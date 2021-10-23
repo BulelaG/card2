@@ -1,4 +1,4 @@
-<style type="text/css">
+
 * {
   margin: 0px;
   padding: 0px;
@@ -61,8 +61,8 @@ button:hover {
   cursor: pointer;
 }
 button{
-  background-color:red;
-  border-color: royalblue;
+  background-color:rgb(71, 59, 59);
+  border-color: rgb(25, 25, 26);
   border-radius: 25%;
 }
 
